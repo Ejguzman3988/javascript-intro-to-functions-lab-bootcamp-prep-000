@@ -1,4 +1,3 @@
-function shout(string say){
-  
-  var a= string
+function shout(string){
+  return string.toUpperCase()
 }
